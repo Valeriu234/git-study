@@ -1,4 +1,6 @@
-.container {
-    color: red;
-    background-color: teal;
+.zina {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
